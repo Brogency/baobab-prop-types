@@ -1,0 +1,9 @@
+src/
+test/
+node_modules/
+.coveralls.yml
+coverage/
+.idea/
+.npmignore
+.gitignore
+karma.conf.js
