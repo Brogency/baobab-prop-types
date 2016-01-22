@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/baobab-react-schemabranchmixin.svg)](https://badge.fury.io/js/baobab-react-schemabranchmixin)
+[![npm version](https://badge.fury.io/js/baobab-prop-types.svg)](https://badge.fury.io/js/baobab-prop-types)
 
 baobab-prop-types
 =========
