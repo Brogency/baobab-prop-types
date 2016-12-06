@@ -1,6 +1,6 @@
 {
   "name": "baobab-prop-types",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React PropTypes for Baobab",
   "main": "./dist/index.js",
   "scripts": {
